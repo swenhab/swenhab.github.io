@@ -11,3 +11,7 @@ Ein Esel mit Namen Esel ist sein bester Freund
 * Kinofilm
 * Pu, Esel, 
 * Christopher Robin
+
+Wie Pu sgate
+> Ich bin hungrig
+> Ich mag Honig
